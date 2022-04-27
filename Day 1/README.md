@@ -63,9 +63,21 @@ Faster cells vs Slower Cells
  - More use of Slower cells leads to sluggish circuit, may not meet the performance requirement
  - So we guide the synthesizer to act as per the "constraints" 
 
+![synth](https://user-images.githubusercontent.com/48850794/165484761-09092af4-a37c-4211-a16c-da03394852f4.png)
 
+## Labs using Yosys and Sky130 PDKs
 
-
+In order to generate the Netlist from RTL we need to run the following command on terminal <br />
+ - yosys
+ - read_liberty -lib <library PATH>
+ - read_verilog <design_file.v>
+ - synth -top <module name>
+ - abc -liberty <library PATH>
+ - show (for graphical representation of design)
+ - write_verilog <design_file_netlist.v>
+ - write_verilog -noattr <design_file_netlist.v> (simplistic view)
+ 
+ 
 
 
 
