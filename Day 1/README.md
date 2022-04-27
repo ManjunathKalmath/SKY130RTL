@@ -47,6 +47,22 @@ Netlist   : contains information about the logic connections of standard cells a
 Different Flavors of Gates are required : <br />
 For performance sake we need the standard cells that work faster and to meet hold time we need the standard cells that work slower. 
 
+![t1](https://user-images.githubusercontent.com/48850794/165481420-cea63017-2776-4add-a98d-46c291785899.png)
+
+![t2](https://user-images.githubusercontent.com/48850794/165481431-07fd581d-feb2-42d2-8426-2db47439355a.png)
+
+Faster cells vs Slower Cells
+ - Load in Digital circuits depends on the Capacitance 
+ - Faster the charging/discharging of capacitance leads to standard cell with lesser delay
+ - To charge/discharge the capacitance fast, we need transistors capable of sourcing more current
+ - Wider transistors have low delay and consume more power and area
+ - Narrow transistors have more delay and consume less power and area 
+ 
+ Selection of Standard Cells
+ - More use of Faster cells leads to bad circuit in terms of power and area and also results in hold time violations
+ - More use of Slower cells leads to sluggish circuit, may not meet the performance requirement
+ - So we guide the synthesizer to act as per the "constraints" 
+
 
 
 
