@@ -34,6 +34,22 @@ After writing the verilog code we need to run following command on terminal to v
 Synthesizer : Tool used for converting RTL to Netlist <br />
 Yosys Synthesizer is used in this workshop
 
+![y1](https://user-images.githubusercontent.com/48850794/165478137-94480a5f-ae3c-4b49-8dae-8ab425b9419b.png)
+
+![y2](https://user-images.githubusercontent.com/48850794/165478147-0990ca57-b5ff-4708-9548-ea59ca8abcc9.png)
+
+Synthesis : The design is converted into gates and the connections are made between the gates <br />
+<br />
+Netlist   : contains information about the logic connections of standard cells and macros <br />
+<br />
+.lib      : collection of logic modules such as logic gates AND, OR etc with different flavors of same gate <br />
+<br />
+Different Flavors of Gates are required : <br />
+For performance sake we need the standard cells that work faster and to meet hold time we need the standard cells that work slower. 
+
+
+
+
 
 
 
