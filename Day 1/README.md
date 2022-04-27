@@ -21,4 +21,24 @@ After writing the verilog code we need to run following command on terminal to v
 - ./a.out (This results in - VCD info : dump file <testbench_file.vcd> opened for output)
 - gtkwave <testbench_file.vcd> 
 
+![gtkwave_good_mux](https://user-images.githubusercontent.com/48850794/165476514-87954088-5eca-4d47-8471-1ec55bc5495a.png)
+
+![good_mux](https://user-images.githubusercontent.com/48850794/165476562-274094aa-0f36-457c-8a16-6245437f7ee3.png)
+
+![tb_good_mux](https://user-images.githubusercontent.com/48850794/165476623-73d5481f-7179-4c65-898f-4d6da66145ef.png)
+
+![sim_good_mux](https://user-images.githubusercontent.com/48850794/165476687-1d1d9205-61d4-4962-8da0-c01561c8cb86.png)
+
+## Introduction to Yosys and Logic synthesis
+
+Synthesizer : Tool used for converting RTL to Netlist <br />
+Yosys Synthesizer is used in this workshop
+
+
+
+
+
+
+
+
 
