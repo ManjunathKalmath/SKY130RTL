@@ -2,7 +2,7 @@
 
 ## Introduction to open-source simulator iverilog
 
-Design    : HDL written as per the specifications given 
+Design    : HDL written as per the specifications given <br />
 TestBench : Setup to check the functionality of design by applying test vectors
 
 Simulator : Tool to simulate the design
