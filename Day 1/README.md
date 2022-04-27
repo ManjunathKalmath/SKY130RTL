@@ -77,6 +77,17 @@ In order to generate the Netlist from RTL we need to run the following command o
  - write_verilog <design_file_netlist.v>
  - write_verilog -noattr <design_file_netlist.v> (simplistic view)
  
+![Screenshot (103)](https://user-images.githubusercontent.com/48850794/165488616-f1acd7f1-8fd5-4928-b863-242ee2ef6443.png)
+
+![Screenshot (104)](https://user-images.githubusercontent.com/48850794/165488637-55650edb-663d-4ebf-bc8e-ce2dc8cbb387.png)
+
+![Screenshot (105)](https://user-images.githubusercontent.com/48850794/165488645-10c2c8b9-b61c-44ad-88e5-a9de648ad1a1.png)
+
+![Screenshot (106)](https://user-images.githubusercontent.com/48850794/165488650-114a5366-7e25-4d4f-abe4-89e897c980ce.png)
+
+![Screenshot (107)](https://user-images.githubusercontent.com/48850794/165488714-fa2a01c0-2134-4303-8031-92b42ef1f2a0.png)
+
+![Screenshot (108)](https://user-images.githubusercontent.com/48850794/165488728-d6037b3e-248d-4555-899e-7271a25c198c.png)
  
 
 
