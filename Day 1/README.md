@@ -10,3 +10,4 @@ Simulator looks for the chage in input values and output is evaluated based on i
 
 ![tb](https://user-images.githubusercontent.com/48850794/165473202-3c6b65f3-6b76-413b-b8ac-bd6fcb29cef4.png)
 
+![iv](https://user-images.githubusercontent.com/48850794/165473374-4e6e7846-1853-47ef-a8da-f587c4a85a4c.png)
