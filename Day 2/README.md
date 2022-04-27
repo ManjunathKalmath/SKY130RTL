@@ -1,19 +1,8 @@
-# Workshop on RTL design using Verilog with SKY130 Technology
+# Day 2 - Timing libs, hierarchical vs flat synthesis and efficient flop coding styles
 
-This repository contains all the information about RTL design using Verilog with SKY130 Technology that is builtin the 5-days Workshop.
+## Introduction to timing .libs
 
-## Workshop Flow
-- Day - 1 : Introduction to Verilog RTL design and Synthesis
-           
-- Day - 2 : Timing libs, hierarchical vs flat synthesis and efficient flop coding styles
-           
-- Day - 3 : Combinational and sequential optmizations
-      
-- Day - 4 : GLS, blocking vs non-blocking and Synthesis-Simulation mismatch
+Any semiconductor chip in order to work properly it should be simulated under different corners of PVT (Process, Voltage and Temperature). These parameters affect the delay of the standard cell.
 
-- Day - 5 : Optimization in synthesis
+skywater is an open source PDK. In this workshop we are using sky130_fd_sc_hd__tt_025C_1v80 library. Here tt - tyoical, 025C - temperature and 1v80 is voltage
 
-## Workshop Outcome
-- Verilog RTL Design and Synthesis 
-- Optimization in design
-- Gate Level Simulation of the Synthesized Netlist
