@@ -3,9 +3,11 @@
 ## Introduction to open-source simulator iverilog
 
 Design    : HDL written as per the specifications given <br />
+<br />
 TestBench : Setup to check the functionality of design by applying test vectors
 
-Simulator : Tool to simulate the design
+Simulator : Tool to simulate the design <br />
+<br />
 Simulator looks for the chage in input values and output is evaluated based on input
 
 ![tb](https://user-images.githubusercontent.com/48850794/165473202-3c6b65f3-6b76-413b-b8ac-bd6fcb29cef4.png)
