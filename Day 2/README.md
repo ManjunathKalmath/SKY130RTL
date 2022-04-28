@@ -30,3 +30,4 @@ POWER : and2_4 > and2_2 > and2_0 <br />
 DELAY : and2_0 > and2_2 > and2_4 <br />
 
 ## Hierarchical vs Flat Synthesis
+
