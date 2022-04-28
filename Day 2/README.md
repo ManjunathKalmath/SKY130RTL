@@ -40,3 +40,21 @@ DELAY : and2_0 > and2_2 > and2_4 <br />
 
 ![Screenshot (121)](https://user-images.githubusercontent.com/48850794/165683946-725bf51d-db8b-460b-b338-57ff6c624870.png)
 
+<br />
+The below image indicates the clear difference in  Hierarchical vs Flat Synthesis <br />
+
+![Screenshot (123)](https://user-images.githubusercontent.com/48850794/165687573-a3099473-09af-4fc5-836e-35d96e3da549.png)
+
+![Screenshot (124)](https://user-images.githubusercontent.com/48850794/165687584-f2a68243-fd75-4b82-a414-b0e6d9ce04e6.png)
+
+![Screenshot (125)](https://user-images.githubusercontent.com/48850794/165687586-77d6a2a7-b04a-4128-8797-9997ad9a53bc.png)
+
+![Screenshot (127)](https://user-images.githubusercontent.com/48850794/165687592-cab4eff5-bd8c-46e8-8659-ee7f0abe3715.png)
+
+<br />
+We go for sub module level synthesis generally when : <br />
+- We have multiple instances of same module <br />
+- In massive designs where the synthesizer fails to give good netlist so we do sub module level synthesis and stich them individually <br />
+ 
+## Various Flop Coding Styles and optimization
+
