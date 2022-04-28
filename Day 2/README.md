@@ -31,3 +31,12 @@ DELAY : and2_0 > and2_2 > and2_4 <br />
 
 ## Hierarchical vs Flat Synthesis
 
+
+![Screenshot (118)](https://user-images.githubusercontent.com/48850794/165683923-4f0349e4-5ab9-462e-81a1-453a098f289b.png)
+
+![Screenshot (119)](https://user-images.githubusercontent.com/48850794/165683936-6e2aedd0-6e0f-4491-900d-05d7939ab638.png)
+
+![Screenshot (120)](https://user-images.githubusercontent.com/48850794/165683942-cd327f43-70d4-4485-8c26-264ce89be0f3.png)
+
+![Screenshot (121)](https://user-images.githubusercontent.com/48850794/165683946-725bf51d-db8b-460b-b338-57ff6c624870.png)
+
