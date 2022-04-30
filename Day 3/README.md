@@ -27,3 +27,10 @@ Sequential Logic Optimization <br />
      - Sequential Logic Cloning (Floor Plan Aware Synthesis)
 
 ![pic4](https://user-images.githubusercontent.com/48850794/166110182-c404f9f4-bc9f-4e02-8686-ce48e8d7a4f0.png)
+
+## Combinational logic optimizations
+
+## Sequential logic optimizations
+
+## Sequential optimzations for unused outputs
+
