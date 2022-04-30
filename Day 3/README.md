@@ -30,6 +30,18 @@ Sequential Logic Optimization <br />
 
 ## Combinational logic optimizations
 
+![Screenshot (156)](https://user-images.githubusercontent.com/48850794/166111380-5dc7b6c6-db68-4555-878b-6ea1f78c3396.png)
+
+![Screenshot (157)](https://user-images.githubusercontent.com/48850794/166111383-43966307-ccdb-4290-96d5-6f14814f1da0.png)
+
+![Screenshot (158)](https://user-images.githubusercontent.com/48850794/166111387-c7001ceb-da5e-40d8-86cf-1b760289b20c.png)
+
+![Screenshot (159)](https://user-images.githubusercontent.com/48850794/166111388-2f902c17-ec3a-4ce8-9f88-e8755fec388c.png)
+
+![Screenshot (161)](https://user-images.githubusercontent.com/48850794/166111390-e07574f3-ae9e-4121-a6ef-1a04108351a1.png)
+
+![Screenshot (162)](https://user-images.githubusercontent.com/48850794/166111392-3b41179c-249b-4359-908f-eb184ec944ee.png)
+
 ## Sequential logic optimizations
 
 ## Sequential optimzations for unused outputs
