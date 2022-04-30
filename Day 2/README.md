@@ -54,7 +54,7 @@ The below image indicates the clear difference in  Hierarchical vs Flat Synthesi
 <br />
 We go for sub module level synthesis generally when : <br />
 - We have multiple instances of same module <br />
-- In massive designs where the synthesizer fails to give good netlist so we do sub module level synthesis and stich them individually <br />
+- In massive designs where the synthesizer fails to give good netlist so we do block level synthesis and stich them individually <br />
  
 ## Various Flop Coding Styles and optimization
 
