@@ -61,3 +61,4 @@ We go for sub module level synthesis generally when : <br />
 Why Flip Flops? <br />
 Combinational Circuits have propogation delay, in larger circuits we may not get the valid output because of the glitch. In order to avoid the glitches in combinational circuits we require flip flops. 
 
+
