@@ -80,3 +80,30 @@ DFF with Asynchronous set
 
 DFF with Synchronous reset
 ![Screenshot (136)](https://user-images.githubusercontent.com/48850794/166102432-26685c9d-ea58-45bb-8271-b797435b23e8.png)
+
+Synthesis of various DFFs 
+![Screenshot (137)](https://user-images.githubusercontent.com/48850794/166104330-be2d75c0-4d22-4516-af6c-7a6dde08b47a.png)
+
+![Screenshot (138)](https://user-images.githubusercontent.com/48850794/166104335-a656ea1d-7abc-43dd-89a0-127777806e7f.png)
+
+![Screenshot (139)](https://user-images.githubusercontent.com/48850794/166104338-789caafb-74e8-429f-9c54-95000bbb70f6.png)
+
+![Screenshot (140)](https://user-images.githubusercontent.com/48850794/166104340-b65694cc-fda8-4e1e-ae2c-61698318e929.png)
+
+Interesting optimizations 
+![Screenshot (144)](https://user-images.githubusercontent.com/48850794/166104343-a7ca26dd-8fa2-4c2b-9cdf-2687885aa128.png)
+
+![Screenshot (145)](https://user-images.githubusercontent.com/48850794/166104345-2ba40141-64ff-4853-894e-dbd00f098ea3.png)
+
+![Screenshot (146)](https://user-images.githubusercontent.com/48850794/166104347-e2300332-2046-4f2e-88a9-92fc6da984ba.png)
+
+![Screenshot (148)](https://user-images.githubusercontent.com/48850794/166104349-312dc0c7-10e2-4a7b-98d7-dd388748d047.png)
+
+![Screenshot (149)](https://user-images.githubusercontent.com/48850794/166104352-9e5092c0-c5aa-4684-b7e2-1118d6f6923d.png)
+
+![Screenshot (150)](https://user-images.githubusercontent.com/48850794/166104353-5e8b8f75-1f42-4289-b76b-f3a00fdd8ee2.png)
+
+![Screenshot (151)](https://user-images.githubusercontent.com/48850794/166104355-35c6bf43-aa7c-4f68-9369-b1b841792106.png)
+
+![Screenshot (152)](https://user-images.githubusercontent.com/48850794/166104358-a337a3c6-5f2f-436d-8fd3-f585b2206589.png)
+
