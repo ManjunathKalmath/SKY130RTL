@@ -70,3 +70,13 @@ Following various D Flip Flops (DFF) is used in the workshop : <br />
 - DFF with Synchronous and Asynchronous reset
 <br />
 Above DFFs verilog code is in Day 2 respective file name <br />
+Simulation Results of various DFFs : <br />
+
+DFF with Asynchronous reset
+![Screenshot (133)](https://user-images.githubusercontent.com/48850794/166102425-7cdf8cf8-55cf-4bfc-8d62-1f1ab6851fb7.png)
+
+DFF with Asynchronous set
+![Screenshot (134)](https://user-images.githubusercontent.com/48850794/166102429-2f830672-abcf-4d6c-891b-8702cc361245.png)
+
+DFF with Synchronous reset
+![Screenshot (136)](https://user-images.githubusercontent.com/48850794/166102432-26685c9d-ea58-45bb-8271-b797435b23e8.png)
