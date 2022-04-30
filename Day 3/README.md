@@ -19,7 +19,11 @@ Sequential Logic Optimization <br />
 - Basic
      - Sequential Constant Propogation 
      
+![pic](https://user-images.githubusercontent.com/48850794/166110178-2ecd81d2-8635-4d47-9dee-b5f7d1a6ff4c.png)
+
 - Advanced 
      - State Optimisation (Opimisation of unused states)
      - Retiming (helps in improving the performance of the circuit)
      - Sequential Logic Cloning (Floor Plan Aware Synthesis)
+
+![pic4](https://user-images.githubusercontent.com/48850794/166110182-c404f9f4-bc9f-4e02-8686-ce48e8d7a4f0.png)
