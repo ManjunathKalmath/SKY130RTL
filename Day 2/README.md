@@ -61,4 +61,12 @@ We go for sub module level synthesis generally when : <br />
 Why Flip Flops? <br />
 Combinational Circuits have propogation delay, in larger circuits we may not get the valid output because of the glitch. In order to avoid the glitches in combinational circuits we require flip flops. 
 
+![paint](https://user-images.githubusercontent.com/48850794/166100918-91351562-7db2-4ee5-9a53-70abbb6822c8.png)
 
+Following various D Flip Flops (DFF) is used in the workshop : <br />
+- DFF with Synchronous reset  : Reset is synchronous with clock
+- DFF with Asynchronous reset : Reset is not synchronous with clock
+- DFF with Asynchronous set   : Set is not synchronous with clock
+- DFF with Synchronous and Asynchronous reset
+<br />
+Above DFFs verilog code is in Day 2 respective file name <br />
