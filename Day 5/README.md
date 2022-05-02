@@ -17,6 +17,14 @@
 
 ## Labs on "Incomplete If Case"
 
+![Screenshot (185)](https://user-images.githubusercontent.com/48850794/166229744-1c343de6-0970-46a4-b5d4-1d314c0d08ee.png)
+
+![Screenshot (186)](https://user-images.githubusercontent.com/48850794/166229751-90b172eb-e90d-4663-98df-69820c07a415.png)
+
+![Screenshot (187)](https://user-images.githubusercontent.com/48850794/166229753-3881b156-1a89-48aa-9225-32b8507363e4.png)
+
+![Screenshot (188)](https://user-images.githubusercontent.com/48850794/166229758-0a5f0245-3cff-4c0e-871b-99e753c62152.png)
+
 ## Labs on "Incomplete overlapping Case"
 
 ## for loop and for generate
