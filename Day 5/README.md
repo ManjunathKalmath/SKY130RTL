@@ -57,3 +57,11 @@
 
 
 ## Labs on "for loop" and "for generate"
+
+![Screenshot (197)](https://user-images.githubusercontent.com/48850794/166294266-8d45e110-4ef2-467b-a0d2-0516832b25e4.png)
+
+![Screenshot (199)](https://user-images.githubusercontent.com/48850794/166294272-130f9dd7-e0e9-441f-8357-b7b3444137b8.png)
+
+![Screenshot (200)](https://user-images.githubusercontent.com/48850794/166294278-af3db2e8-62e1-4b66-b4a0-2364f2f51e9b.png)
+
+![Screenshot (203)](https://user-images.githubusercontent.com/48850794/166294283-7b77667f-a71d-4c17-b7f1-07a393324abd.png)
