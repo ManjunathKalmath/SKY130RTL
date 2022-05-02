@@ -1,19 +1,11 @@
-# Workshop on RTL design using Verilog with SKY130 Technology
+# Day 5 - Optimization in synthesis
 
-This repository contains all the information about RTL design using Verilog with SKY130 Technology that is builtin the 5-days Workshop.
+## If Case constructs
 
-## Workshop Flow
-- Day - 1 : Introduction to Verilog RTL design and Synthesis
-           
-- Day - 2 : Timing libs, hierarchical vs flat synthesis and efficient flop coding styles
-           
-- Day - 3 : Combinational and sequential optmizations
-      
-- Day - 4 : GLS, blocking vs non-blocking and Synthesis-Simulation mismatch
+## Labs on "Incomplete If Case"
 
-- Day - 5 : Optimization in synthesis
+## Labs on "Incomplete overlapping Case"
 
-## Workshop Outcome
-- Verilog RTL Design and Synthesis 
-- Optimization in design
-- Gate Level Simulation of the Synthesized Netlist
+## for loop and for generate
+
+## Labs on "for loop" and "for generate"
