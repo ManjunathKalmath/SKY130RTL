@@ -26,6 +26,19 @@
 ![Screenshot (188)](https://user-images.githubusercontent.com/48850794/166229758-0a5f0245-3cff-4c0e-871b-99e753c62152.png)
 
 ## Labs on "Incomplete overlapping Case"
+![Screenshot (189)](https://user-images.githubusercontent.com/48850794/166288859-340307c3-906a-4b0d-a115-fa42c32cd997.png)
+
+![Screenshot (190)](https://user-images.githubusercontent.com/48850794/166288894-039c6707-204e-4903-b225-7bf18ab0597d.png)
+
+![Screenshot (191)](https://user-images.githubusercontent.com/48850794/166288911-71677324-d739-4a61-8e92-776003e0301b.png)
+
+![Screenshot (192)](https://user-images.githubusercontent.com/48850794/166288917-327f74ca-faa1-4de7-881b-351870e46924.png)
+
+![Screenshot (194)](https://user-images.githubusercontent.com/48850794/166288930-a0ac6d2d-6caa-4cc0-b184-32bf57cd7a1d.png)
+
+![Screenshot (195)](https://user-images.githubusercontent.com/48850794/166288938-66e0d787-160a-4356-a51b-e72b9a757303.png)
+
+![Screenshot (196)](https://user-images.githubusercontent.com/48850794/166288943-e82c35c9-15d6-42e2-9542-86b893984607.png)
 
 ## for loop and for generate
 ![pict1](https://user-images.githubusercontent.com/48850794/166229220-ac100c22-1be6-4b5c-b5dc-5501b87f3e82.png)
