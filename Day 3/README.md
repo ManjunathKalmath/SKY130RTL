@@ -43,6 +43,22 @@ Sequential Logic Optimization <br />
 ![Screenshot (162)](https://user-images.githubusercontent.com/48850794/166111392-3b41179c-249b-4359-908f-eb184ec944ee.png)
 
 ## Sequential logic optimizations
+![Screenshot (163)](https://user-images.githubusercontent.com/48850794/166192642-e254dda6-f173-4510-9a2b-6e19aaba6b2b.png)
+
+![Screenshot (164)](https://user-images.githubusercontent.com/48850794/166192646-b36a13be-9bbc-49d2-9c33-15475fdbd859.png)
+
+![Screenshot (165)](https://user-images.githubusercontent.com/48850794/166192650-80f2e7be-45d9-44ce-8503-07efd020fe37.png)
+
+![Screenshot (166)](https://user-images.githubusercontent.com/48850794/166192653-10dc4d72-64a1-4f00-9523-85c78567f93f.png)
+
+![Screenshot (167)](https://user-images.githubusercontent.com/48850794/166192657-26175ed7-1e1a-48d3-9111-1a5d92d3e7f2.png)
+
+![Screenshot (170)](https://user-images.githubusercontent.com/48850794/166192660-13b566b6-0c6f-447d-88e4-c22f615e92f5.png)
+
+![Screenshot (171)](https://user-images.githubusercontent.com/48850794/166192667-90f5f8cc-e580-47f1-84ef-8d9ff8f924a2.png)
+
+![Screenshot (172)](https://user-images.githubusercontent.com/48850794/166192671-0467cff6-17ee-4957-9727-9ac9a8d24b87.png)
+
 
 ## Sequential optimzations for unused outputs
 
