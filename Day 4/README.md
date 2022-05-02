@@ -1,19 +1,34 @@
-# Workshop on RTL design using Verilog with SKY130 Technology
+# Day 4 - GLS, blocking vs non-blocking and Synthesis-Simulation mismatch
 
-This repository contains all the information about RTL design using Verilog with SKY130 Technology that is builtin the 5-days Workshop.
+About Gate Level Simulation : <br />
+ - Running testbench with Netlist as DUT
+ - Netlist is logically same as RTL Code
+ - We perform GLS in order to verify the logical correctness of design after synthesis and ensuring the timing of design is met.
+ 
+ About Synthesis Simulation Mismatch : <br />
+ Synthesis Simulation Mismatch happens because of the following reasons <br />
+ - Missing Sensitivity list
+ - Blocking vs Non-Blocking Assignments
+ - Non Standard Verilog Coding
+ 
+ Missing Sensitivity list <br />
+ 
+ Always it should be taken care with respect to functionality of design and mention the inputs in the sensitivity list.
+ 
+ Blocking vs Non-Blocking Statements in Verilog <br />
+ These should be always used inside the "always block" <br />
+ 
+ Blocking <br />
+ - Executes the statements in order they written
+ - First statement is evaluated before the second statement
 
-## Workshop Flow
-- Day - 1 : Introduction to Verilog RTL design and Synthesis
-           
-- Day - 2 : Timing libs, hierarchical vs flat synthesis and efficient flop coding styles
-           
-- Day - 3 : Combinational and sequential optmizations
-      
-- Day - 4 : GLS, blocking vs non-blocking and Synthesis-Simulation mismatch
+ Non - Blocking <br />
+ - Executes all RHS when always block is entered and assigns to LHS
+ - Parallel Evaluation
+ Use non - blocking to design the sequential circuits
+## GLS, Synthesis-Simulation mismatch and Blocking/Non-blocking statements
 
-- Day - 5 : Optimization in synthesis
+## Labs on GLS and Synthesis-Simulation Mismatch
 
-## Workshop Outcome
-- Verilog RTL Design and Synthesis 
-- Optimization in design
-- Gate Level Simulation of the Synthesized Netlist
+## Labs on synth-sim mismatch for blocking statement
+
