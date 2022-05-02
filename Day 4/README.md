@@ -38,6 +38,18 @@ About Gate Level Simulation : <br />
 
 ## Labs on GLS and Synthesis-Simulation Mismatch
 
+There is no Synthesis-Simulation Mismatch below : <br />
+![Screenshot (177)](https://user-images.githubusercontent.com/48850794/166207992-b04927b0-fb9e-425f-ab06-2bc04c2048df.png)
+
+![Screenshot (178)](https://user-images.githubusercontent.com/48850794/166207997-eea0579a-1f9a-4f4d-873f-8b4b08254ea3.png)
+
+![Screenshot (179)](https://user-images.githubusercontent.com/48850794/166208001-fe3c275d-df3a-4b16-99a2-b1dc062bb374.png)
+
+There is Synthesis-Simulation Mismatch below : <br />
+![Screenshot (180)](https://user-images.githubusercontent.com/48850794/166208006-fab17edb-4387-4b45-b9e4-0ef521af3490.png)
+
+![Screenshot (181)](https://user-images.githubusercontent.com/48850794/166208009-ad67fc24-5cb7-4ec9-a0c1-fde5cf1016c6.png)
+
 
 ## Labs on synth-sim mismatch for blocking statement
 
