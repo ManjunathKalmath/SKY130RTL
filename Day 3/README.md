@@ -62,4 +62,11 @@ Sequential Logic Optimization <br />
 
 ## Sequential optimzations for unused outputs
 
+![Screenshot (173)](https://user-images.githubusercontent.com/48850794/166196079-c1ba483c-8964-46c3-bee9-f686ca9f65c2.png)
+
+![Screenshot (174)](https://user-images.githubusercontent.com/48850794/166196084-79bfc898-bd6e-477c-b4f2-82ca7b91ce19.png)
+
+![Screenshot (175)](https://user-images.githubusercontent.com/48850794/166196092-389c8e5e-f699-4247-8ec6-9a8ba37cd81e.png)
+
+![Screenshot (176)](https://user-images.githubusercontent.com/48850794/166196096-3456a9bf-e653-4d85-89dd-ef6c4469d650.png)
 
