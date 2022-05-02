@@ -53,3 +53,8 @@ There is Synthesis-Simulation Mismatch below : <br />
 
 ## Labs on synth-sim mismatch for blocking statement
 
+![Screenshot (182)](https://user-images.githubusercontent.com/48850794/166220627-7f89e643-c080-4711-a552-7baf4387d1e3.png)
+
+![Screenshot (183)](https://user-images.githubusercontent.com/48850794/166220631-620220d7-64f9-46c8-9fe7-d55dbc7b6c85.png)
+
+![Screenshot (184)](https://user-images.githubusercontent.com/48850794/166220633-2a66219e-db9a-449f-8efc-cef09fcc0564.png)
